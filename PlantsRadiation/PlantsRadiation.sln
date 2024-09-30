@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlantsRadiation", "PlantsRadiation.csproj", "{82706281-4191-4717-9000-BA89C7BB0933}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlantRadiationTests", "..\PlantRadiationTests\PlantRadiationTests.csproj", "{7072F625-2EED-444E-8A20-9FB5B21F7985}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82706281-4191-4717-9000-BA89C7BB0933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82706281-4191-4717-9000-BA89C7BB0933}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82706281-4191-4717-9000-BA89C7BB0933}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82706281-4191-4717-9000-BA89C7BB0933}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7072F625-2EED-444E-8A20-9FB5B21F7985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7072F625-2EED-444E-8A20-9FB5B21F7985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7072F625-2EED-444E-8A20-9FB5B21F7985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7072F625-2EED-444E-8A20-9FB5B21F7985}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F403DC5F-A56E-40DF-A452-2069F5B1E3D2}
+	EndGlobalSection
+EndGlobal
